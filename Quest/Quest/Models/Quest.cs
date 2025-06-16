@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Quest.Models;
+namespace QuestApp.Models;
 
 public class Quest
 {
@@ -10,7 +10,7 @@ public class Quest
     public string Hint { get; set; } = string.Empty;
 
     public int Points { get; set; } = 10;           
-    public int TimeLimitSeconds { get; set; } = 300;
+    public int TimeLimitSeconds { get; set; } = 1800;
     public double Latitude { get; set; }           
     public double Longitude { get; set; }           
 

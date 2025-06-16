@@ -1,11 +1,11 @@
-﻿using Quest.Models;
+﻿namespace QuestApp.Models;
 
 public class Payment
 {
     public int Id { get; set; }
 
-    public int UserId { get; set; }                
-    public User User { get; set; }
+    public int AccessLinkId { get; set; }
+    public AccessLink AccessLink { get; set; }
 
     public string StripePaymentId { get; set; }     
     public DateTime PaidAt { get; set; }            
