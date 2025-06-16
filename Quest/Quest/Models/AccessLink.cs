@@ -1,4 +1,4 @@
-﻿namespace Quest.Models
+﻿namespace QuestApp.Models
 {
     public class AccessLink
     {

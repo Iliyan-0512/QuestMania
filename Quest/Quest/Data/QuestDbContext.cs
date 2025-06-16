@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using Microsoft.EntityFrameworkCore;
-using Quest.Models;
 
-namespace Quest.Data
+
+namespace  QuestApp.Models
 {
     public class QuestDbContext:DbContext
     {
@@ -15,6 +15,7 @@ namespace Quest.Data
         public DbSet<Location> Locations { get; set; }
         public DbSet<Payment> Payments { get; set; }
         public DbSet<Progress> Progresses { get; set; }
-        public DbSet<Queue> Quests { get; set; }
+        public DbSet<Quest> Quests { get; set; }
+
     }
 }
