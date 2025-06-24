@@ -307,14 +307,11 @@ C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\Quest.sourcelink.
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\scopedcss\bundle\Quest.styles.css
-C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\scopedcss\projectbundle\Quest.bundle.scp.css
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\Quest.csproj.Up2Date
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\Quest.dll
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\refint\Quest.dll

@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-﻿namespace QuestApp.Models;
-
-public class Progress
-=======
-﻿namespace QuestApp.Models
->>>>>>> 8d47a51b3c82628feeba189941b80a5930c85712
+namespace QuestApp.Models
 {
-
     public class Progress
     {
         public int Id { get; set; }
