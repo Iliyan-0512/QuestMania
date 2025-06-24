@@ -1,4 +1,5 @@
-﻿using Quest.Models;
+﻿using QuestApp.Models;
+namespace QuestApp.Models;
 
 public class Payment
 {

@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quest.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Quest.ftt95nlqna.bundle.scp.css"
+      "Id": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
+      "PackagePath": "staticwebassets\\css\\input.css"
     },
     {
       "Id": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
+      "PackagePath": "staticwebassets\\css\\test.html"
     },
     {
       "Id": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\favicon.ico",

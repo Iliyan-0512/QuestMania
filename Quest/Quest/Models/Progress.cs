@@ -1,4 +1,4 @@
-﻿using Quest.Models;
+﻿namespace QuestApp.Models;
 
 public class Progress
 {

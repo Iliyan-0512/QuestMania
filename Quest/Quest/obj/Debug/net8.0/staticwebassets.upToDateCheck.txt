@@ -1,4 +1,6 @@
+wwwroot\css\input.css
 wwwroot\css\site.css
+wwwroot\css\test.html
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

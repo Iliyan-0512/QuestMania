@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Quest.Models;
+using QuestApp.Models;
 
 namespace Quest.Controllers
 {

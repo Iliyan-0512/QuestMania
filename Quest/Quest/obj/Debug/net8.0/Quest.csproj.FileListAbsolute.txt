@@ -15,9 +15,7 @@ C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\Quest.MvcApplicationPartsAss
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\Quest.RazorAssemblyInfo.cache
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\Quest.RazorAssemblyInfo.cs
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\Quest.sourcelink.json
-C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\scopedcss\bundle\Quest.styles.css
-C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\scopedcss\projectbundle\Quest.bundle.scp.css
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\staticwebassets.build.json
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\staticwebassets.development.json
 C:\iliyan\QuestProject\Quest\Quest\obj\Debug\net8.0\staticwebassets.build.endpoints.json

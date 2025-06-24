@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+yr0JtAjkDxv6qnJDMqU3Yf0kguSjU5jIPyOHU9HF6Y=",
+  "Hash": "R9s5ixA9Pd5XF2UUb03pU5qqyFTe24ZwoJyfgKYtYDo=",
   "Source": "Quest",
   "BasePath": "_content/Quest",
   "Mode": "Default",
@@ -17,46 +17,25 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Quest.styles.css",
+      "Identity": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
       "SourceId": "Quest",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\",
       "BasePath": "_content/Quest",
-      "RelativePath": "Quest#[.{fingerprint}]?.styles.css",
+      "RelativePath": "css/input#[.{fingerprint}]?.css",
       "AssetKind": "All",
-      "AssetMode": "CurrentProject",
+      "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "ftt95nlqna",
-      "Integrity": "zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4=",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sx1p942dk6",
+      "Integrity": "8JBJ/uoQJND6vk33NPJBjUpxOWf78QmLyi0vFLvuwyk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Quest.styles.css"
-    },
-    {
-      "Identity": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quest.bundle.scp.css",
-      "SourceId": "Quest",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/Quest",
-      "RelativePath": "Quest#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "ftt95nlqna",
-      "Integrity": "zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quest.bundle.scp.css"
+      "OriginalItemSpec": "wwwroot\\css\\input.css"
     },
     {
       "Identity": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
@@ -73,11 +52,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "6p8bgmpayy",
+      "Integrity": "yjjNsN1wVGYnaRVCOEr4SIMCbp2JT97kHUaNi+cipoM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
+      "SourceId": "Quest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\",
+      "BasePath": "_content/Quest",
+      "RelativePath": "css/test#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xvh8omgnbp",
+      "Integrity": "cwMh0dGU5Kj6Gee+PebYn+Y6qebUAw+mtM7uLOekqAw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\test.html"
     },
     {
       "Identity": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\favicon.ico",
@@ -1321,8 +1321,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
+      "Route": "css/input.css",
+      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "27"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1339,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"8JBJ/uoQJND6vk33NPJBjUpxOWf78QmLyi0vFLvuwyk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 22:25:05 GMT"
+          "Value": "Tue, 24 Jun 2025 14:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8JBJ/uoQJND6vk33NPJBjUpxOWf78QmLyi0vFLvuwyk="
+        }
+      ]
+    },
+    {
+      "Route": "css/input.sx1p942dk6.css",
+      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8JBJ/uoQJND6vk33NPJBjUpxOWf78QmLyi0vFLvuwyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 14:17:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,7 +1390,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "sx1p942dk6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/input.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8JBJ/uoQJND6vk33NPJBjUpxOWf78QmLyi0vFLvuwyk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.6p8bgmpayy.css",
+      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjjNsN1wVGYnaRVCOEr4SIMCbp2JT97kHUaNi+cipoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 14:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6p8bgmpayy"
         },
         {
           "Name": "label",
@@ -1361,7 +1443,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-yjjNsN1wVGYnaRVCOEr4SIMCbp2JT97kHUaNi+cipoM="
         }
       ]
     },
@@ -1376,7 +1458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "24723"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"yjjNsN1wVGYnaRVCOEr4SIMCbp2JT97kHUaNi+cipoM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 22:25:05 GMT"
+          "Value": "Tue, 24 Jun 2025 14:17:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1480,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-yjjNsN1wVGYnaRVCOEr4SIMCbp2JT97kHUaNi+cipoM="
+        }
+      ]
+    },
+    {
+      "Route": "css/test.html",
+      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwMh0dGU5Kj6Gee+PebYn+Y6qebUAw+mtM7uLOekqAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 12:57:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwMh0dGU5Kj6Gee+PebYn+Y6qebUAw+mtM7uLOekqAw="
+        }
+      ]
+    },
+    {
+      "Route": "css/test.xvh8omgnbp.html",
+      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwMh0dGU5Kj6Gee+PebYn+Y6qebUAw+mtM7uLOekqAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 12:57:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvh8omgnbp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/test.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwMh0dGU5Kj6Gee+PebYn+Y6qebUAw+mtM7uLOekqAw="
         }
       ]
     },
@@ -6237,170 +6401,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
-        }
-      ]
-    },
-    {
-      "Route": "Quest.bundle.scp.css",
-      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quest.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1123"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 22:31:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4="
-        }
-      ]
-    },
-    {
-      "Route": "Quest.ftt95nlqna.bundle.scp.css",
-      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quest.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1123"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 22:31:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ftt95nlqna"
-        },
-        {
-          "Name": "label",
-          "Value": "Quest.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4="
-        }
-      ]
-    },
-    {
-      "Route": "Quest.ftt95nlqna.styles.css",
-      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Quest.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1123"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 22:31:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ftt95nlqna"
-        },
-        {
-          "Name": "label",
-          "Value": "Quest.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4="
-        }
-      ]
-    },
-    {
-      "Route": "Quest.styles.css",
-      "AssetFile": "C:\\iliyan\\QuestProject\\Quest\\Quest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Quest.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1123"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 07 Jun 2025 22:31:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zU9WzVpYaOSA90irZVIpjHJBQ6pxo/jgy/KOnqbR9J4="
         }
       ]
     }
