@@ -3,9 +3,10 @@
     "version": "1.0.0",
     "description": "The name \"QuestMania\", all visual assets (including logos, UI elements, and custom illustrations),\r and original text content (including riddles and story) are property of the authors of this repository.",
     "main": "index.js",
-    "scripts": {
-        "watch-tailwind": "npx @tailwindcss/cli -i wwwroot/css/site.css -o wwwroot/css/site.min.css --watch"
-    },
+"scripts": {
+  "watch-tailwind": "npx tailwindcss -c Quest/tailwind.config.js -i Quest/Quest/wwwroot/css/input.css -o Quest/Quest/wwwroot/css/site.css --watch"
+},
+
 
     "repository": {
         "type": "git",
