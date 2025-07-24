@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\iliyan\\QuestProject\\Quest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,15 +113,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\.gitignore",
+              "RelativeDocumentMoniker": "Quest\\.gitignore",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\.gitignore",
+              "RelativeToolTip": "Quest\\.gitignore",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T19:03:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Quest\\appsettings.Development.json",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\appsettings.Development.json",
+              "RelativeToolTip": "Quest\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T18:25:45.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "Quest\\Controllers\\PaymentController.cs",
@@ -126,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Quest.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Quest.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Quest.cs",
@@ -138,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\css\\site.css",
@@ -150,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "input.css",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\css\\input.css",
@@ -162,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Shared\\_Layout.cshtml",
@@ -174,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\tailwind.config.js",
               "RelativeDocumentMoniker": "tailwind.config.js",
@@ -186,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "postcss.config.js",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\postcss.config.js",
               "RelativeDocumentMoniker": "postcss.config.js",
@@ -198,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Home\\Index.cshtml",
@@ -210,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\package.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\vikto\\Desktop\\QuestMania\\package.json",
@@ -221,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\ErrorViewModel.cs",
@@ -233,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "site.js",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\js\\site.js",
@@ -245,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "test.html",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\css\\test.html",
@@ -257,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Payment.cs",
@@ -269,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\_ViewStart.cshtml",
@@ -281,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Home\\Privacy.cshtml",
@@ -293,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\_ViewImports.cshtml",
@@ -305,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "GameSession.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\GameSession.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\GameSession.cs",
@@ -317,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Location.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Location.cs",
@@ -329,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Shared\\Error.cshtml",
@@ -341,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Quest\\Controllers\\HomeController.cs",
@@ -353,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Progress.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Progress.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Progress.cs",
@@ -365,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\User.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\User.cs",
@@ -377,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\appsettings.json",
               "RelativeDocumentMoniker": "Quest\\appsettings.json",
@@ -389,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Program.cs",
               "RelativeDocumentMoniker": "Quest\\Program.cs",
@@ -398,6 +428,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T15:34:04.898Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
