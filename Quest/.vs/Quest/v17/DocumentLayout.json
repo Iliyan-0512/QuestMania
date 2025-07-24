@@ -1,97 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\",
+  "WorkspaceRootPath": "C:\\iliyan\\QuestProject\\Quest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|C:\\iliyan\\QuestProject\\Quest\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|C:\\iliyan\\QuestProject\\Quest\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|solutionrelative:postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF3EF410-38CF-4284-8078-319545FC9A17}|Solution Items{BF3EF410-38CF-4284-8078-319545FC9A17}|C:\\Users\\vikto\\Desktop\\QuestMania\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\wwwroot\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\wwwroot\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\wwwroot\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\wwwroot\\css\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\wwwroot\\css\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\wwwroot\\css\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\users\\vikto\\desktop\\questmania\\quest\\quest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|c:\\iliyan\\questproject\\quest\\quest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD20283B-1F6E-4B48-B8C2-FC154F37EFAC}|Quest\\Quest.csproj|solutionrelative:quest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikto\\Desktop\\QuestMania\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,30 +105,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Quest.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Quest.cs",
-              "RelativeDocumentMoniker": "Quest\\Models\\Quest.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Quest.cs",
-              "RelativeToolTip": "Quest\\Models\\Quest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Quest\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Quest\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwDMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:34:04.848Z",
+              "WhenOpened": "2025-07-23T11:22:59.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Quest.cs",
+              "RelativeDocumentMoniker": "Quest\\Models\\Quest.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Quest.cs",
+              "RelativeToolTip": "Quest\\Models\\Quest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:34:04.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Quest\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAHoCAAAAAAAAAAApwI4CAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAHoCAAAAAAAAAAApwI4CAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-24T15:34:04.853Z"
             },
@@ -132,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "input.css",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\css\\input.css",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\css\\input.css",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\css\\input.css",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\input.css",
               "RelativeToolTip": "Quest\\wwwroot\\css\\input.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -144,21 +164,21 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Quest\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-24T15:34:04.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "tailwind.config.js",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\tailwind.config.js",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\tailwind.config.js",
               "RelativeDocumentMoniker": "tailwind.config.js",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\tailwind.config.js",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\tailwind.config.js",
               "RelativeToolTip": "tailwind.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -166,11 +186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "postcss.config.js",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\postcss.config.js",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\postcss.config.js",
               "RelativeDocumentMoniker": "postcss.config.js",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\postcss.config.js",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\postcss.config.js",
               "RelativeToolTip": "postcss.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -180,9 +200,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Quest\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -190,13 +210,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\package.json",
-              "RelativeDocumentMoniker": "..\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\vikto\\Desktop\\QuestMania\\package.json",
               "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\package.json",
-              "RelativeToolTip": "..\\package.json",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\Users\\vikto\\Desktop\\QuestMania\\package.json",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-24T15:34:04.868Z"
             },
@@ -204,9 +223,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Quest\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,9 +235,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\js\\site.js",
               "RelativeToolTip": "Quest\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -228,9 +247,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "test.html",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\css\\test.html",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
               "RelativeDocumentMoniker": "Quest\\wwwroot\\css\\test.html",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\wwwroot\\css\\test.html",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\wwwroot\\css\\test.html",
               "RelativeToolTip": "Quest\\wwwroot\\css\\test.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -240,9 +259,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Payment.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Payment.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Payment.cs",
               "RelativeToolTip": "Quest\\Models\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,9 +271,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Quest\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -264,9 +283,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Quest\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -276,9 +295,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Quest\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -288,9 +307,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "GameSession.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\GameSession.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\GameSession.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\GameSession.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\GameSession.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\GameSession.cs",
               "RelativeToolTip": "Quest\\Models\\GameSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,11 +319,11 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Location.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Location.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Location.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Location.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Location.cs",
               "RelativeToolTip": "Quest\\Models\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T15:34:04.884Z"
             },
@@ -312,11 +331,11 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Quest\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Quest\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-24T15:34:04.886Z"
             },
@@ -324,9 +343,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Quest\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Quest\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,11 +355,11 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Progress.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Progress.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Progress.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\Progress.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\Progress.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\Progress.cs",
               "RelativeToolTip": "Quest\\Models\\Progress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T15:34:04.89Z"
             },
@@ -348,9 +367,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\User.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\User.cs",
               "RelativeDocumentMoniker": "Quest\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Models\\User.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Models\\User.cs",
               "RelativeToolTip": "Quest\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,9 +379,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\appsettings.json",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\appsettings.json",
               "RelativeDocumentMoniker": "Quest\\appsettings.json",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\appsettings.json",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\appsettings.json",
               "RelativeToolTip": "Quest\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -372,9 +391,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Program.cs",
               "RelativeDocumentMoniker": "Quest\\Program.cs",
-              "ToolTip": "C:\\Users\\vikto\\Desktop\\QuestMania\\Quest\\Quest\\Program.cs",
+              "ToolTip": "C:\\iliyan\\QuestProject\\Quest\\Quest\\Program.cs",
               "RelativeToolTip": "Quest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
