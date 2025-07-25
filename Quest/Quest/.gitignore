@@ -1,0 +1,42 @@
+﻿# =========================================
+# === Visual Studio / .NET Core Default ===
+# =========================================
+
+## Ignore build results
+[Bb]in/
+[Bb]uild/
+[Oo]bj/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.sln.docstates
+
+## Ignore IDE settings
+.vs/
+*.csproj.user
+
+## Ignore local development settings and secrets
+# Файлът, който обсъждахме за твоите Stripe ключове
+appsettings.Development.json
+secrets.json
+
+## Ignore local tooling
+# (например, ако използваш dotnet-ef за миграции)
+*.db
+*.db-shm
+*.db-wal
+
+## Ignore log and test results
+*.log
+*.trx
+*.coverage
+*.nupkg
+
+## Ignore OS-generated files
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+appsettings.Development.json
