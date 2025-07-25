@@ -1,36 +1,36 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using QuestApp.Models;
+using Microsoft.Extensions.Configuration;
 using Stripe.Checkout;
 using Stripe;
+using QuestApp.Models;
 
 namespace QuestApp.Controllers
 {
-    [ApiController]
     [Route("api/[controller]")]
+    [ApiController]
     public class PaymentController : ControllerBase
     {
-        private readonly QuestDbContext _context;
         private readonly IConfiguration _config;
+        private readonly QuestDbContext _context;
 
-        public PaymentController(QuestDbContext context, IConfiguration config)
+        public PaymentController(IConfiguration config, QuestDbContext context)
         {
-            _context = context;
             _config = config;
+            _context = context;
         }
 
         [HttpGet("create-checkout-session")]
         public async Task<IActionResult> CreateCheckoutSession(decimal amount, int accessLinkId)
         {
-            // Проверка дали AccessLink съществува
-            var accessLink = await _context.AccessLinks.FindAsync(accessLinkId);
+            // проверка дали има такъв access link
+            var accessLink = _context.AccessLinks.FirstOrDefault(x => x.Id == accessLinkId);
             if (accessLink == null)
             {
-                return NotFound("Access link not found.");
+                return NotFound("AccessLink not found.");
             }
 
-            // Инициализация на Stripe
-            StripeConfiguration.ApiKey = _config["Stripe:SecretKey"];
+            // Stripe client
+            var stripeClient = new StripeClient(_config["Stripe:SecretKey"]);
 
             var options = new SessionCreateOptions
             {
@@ -41,36 +41,23 @@ namespace QuestApp.Controllers
                     {
                         PriceData = new SessionLineItemPriceDataOptions
                         {
-                            UnitAmountDecimal = amount * 100,
-                            Currency = "bgn",
+                            Currency = "usd",
+                            UnitAmountDecimal = amount * 100, // Stripe работи в центове
                             ProductData = new SessionLineItemPriceDataProductDataOptions
                             {
-                                Name = "Access Link Payment"
-                            }
+                                Name = $"Access Code: {accessLink.Code}"
+                            },
                         },
-                        Quantity = 1
-                    }
+                        Quantity = 1,
+                    },
                 },
                 Mode = "payment",
                 SuccessUrl = "https://localhost:7182/success",
-                CancelUrl = "https://localhost:7182/cancel"
+                CancelUrl = "https://localhost:7182/cancel",
             };
 
-            var service = new SessionService();
+            var service = new SessionService(stripeClient);
             Session session = await service.CreateAsync(options);
-
-            // Запис в Payment таблицата (предварително, може да изчакаш уебхук ако искаш)
-            var payment = new Payment
-            {
-                AccessLinkId = accessLinkId,
-                StripePaymentId = session.Id,
-                PaidAt = DateTime.UtcNow,
-                Amount = amount,
-                IsConfirmed = false // ще стане true след Stripe Webhook
-            };
-
-            _context.Payments.Add(payment);
-            await _context.SaveChangesAsync();
 
             return Ok(new { sessionId = session.Id, url = session.Url });
         }

@@ -318,3 +318,7 @@ C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\refint\Quest.dll
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\Quest.pdb
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\Quest.genruntimeconfig.cache
 C:\Users\vikto\Desktop\QuestMania\Quest\Quest\obj\Debug\net8.0\ref\Quest.dll
+C:\iliyan\QuestProject\Quest\Quest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\iliyan\QuestProject\Quest\Quest\bin\Debug\net8.0\Stripe.net.dll
+C:\iliyan\QuestProject\Quest\Quest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\iliyan\QuestProject\Quest\Quest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
