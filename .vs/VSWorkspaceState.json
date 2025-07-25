@@ -7,6 +7,6 @@
     "\\Quest\\Quest\\Views",
     "\\Quest\\Quest\\Views\\Home"
   ],
-  "SelectedNode": "\\Quest\\Quest\\Models\\Quest.cs",
+  "SelectedNode": "\\Quest\\Quest\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

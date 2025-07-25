@@ -1,0 +1,38 @@
+﻿  @import "tailwindcss";
+  @tailwind utilities;
+
+  body {
+    background-color: black;
+  }
+
+  @layer utilities {
+    .animate-scaleUpSlow {
+      @apply animate-[scaleUpSlow_2s_ease-out_forwards];
+    }
+
+    .animate-fadeOutSmooth {
+      @apply animate-[fadeOutSmooth_0.5s_ease-in-out_forwards];
+    }
+
+    @keyframes scaleUpSlow {
+      from {
+        transform: scale(0.2);
+        opacity: 0;
+      }
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+
+    @keyframes fadeOutSmooth {
+      from {
+        opacity: 1;
+        transform: scale(1);
+      }
+      to {
+        transform: scale(35.7);
+        opacity: 0;
+      }
+    }
+  }
